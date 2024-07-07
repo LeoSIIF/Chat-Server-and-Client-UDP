@@ -2,7 +2,6 @@
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <title>Descrição do Projeto</title>
 </head>
 <body>
     <h1>Descrição do Projeto</h1>
